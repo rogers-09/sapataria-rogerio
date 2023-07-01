@@ -1,17 +1,17 @@
 .page-title {
     /*SHORTAND MARGENS*/
-     color:blue ;
-     margin: 40px auto 5px;
+    margin: 40px auto 5ppx;
      padding-left: 10px;
      width: 80%;
      font-size:30pt;
      font-weight: bold;
      color: #8e3200;
+     
 
 }
      
 
-.page-subtitle {
+h2 {
 
     /*margin: 5px* auto 25px;*/
     margin-top: 5px;
@@ -26,16 +26,16 @@
     
 }
 
-.page-title2{
+article {    
+     margin: 40px auto 5px;     
+     width: 80%;   
 
-    color:blue ;
-     margin: 40px auto 5px;
-     padding-left: 10px;
-     width: 80%;
-     font-size:30pt;
-     font-weight: bold;
-     color: #be5a21;
+}
 
+
+
+p{
+    margin-top: 20px;
 }
 
 main{
@@ -43,5 +43,47 @@ main{
     width: 80%;
     margin: 40px auto 5px;
     padding-left: 10px;
+}
+
+.article-title{
+
+    /*SHORTHAND MARGENS*/
+    margin: 40PX  auto 5px;
+    font-size: 22pt;
+    color: #be5a21;
+}
+
+
+.titulo-produto {
+    /* SHORTHAND MARGENS*/    
+    margin: 40px 0 5px;    
+    font-size: 18pt;
+    font-weight: bold;    
+    color: #ffffff;
+    background-color: #8E3200;
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+
+
+.imagem-produto{
+    
+    width: 413px; 
+
+
+}
+
+.rodape{
+
+    margin: 40px 0 5px;
+    font-size: 16pt;
+    font-weight: bolder;
+    color:  #ffffff;
+    background-color: #8E3200;
+    padding: 20px;
+    padding-bottom: 20px;
+    text-align: left;
 }
 
