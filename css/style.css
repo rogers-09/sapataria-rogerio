@@ -2,36 +2,36 @@
 
 .page-title {
     /*SHORTAND MARGENS*/
-     font-family: 'Rubik' , sans-serif;
-     margin: 40px auto 5px;
-     padding-left: 10px;
-     width: 80%;
-     font-size:30pt;
-     font-weight: 600;
-     color: #8e3200;
-     
+    font-family: 'Rubik', sans-serif;
+    margin: 40px auto 5px;
+    padding-left: 10px;
+    width: 80%;
+    font-size: 30pt;
+    font-weight: 600;
+    color: #8e3200;
+
 
 }
-     
+
 
 h2 {
 
-   /* margin: 5px auto 25px; */
-   font-family: 'Rubik', sans-serif;
-   font-style: italic;         
-   margin-top: 5px;
-   margin-right: auto;
-   margin-left: auto;
-   margin-bottom: 25px;
-   padding-left: 10px;
-   width: 80%;
-   font-size: 15pt;
-   color: #8E3200;   
-    
+    /* margin: 5px auto 25px; */
+    font-family: 'Rubik', sans-serif;
+    font-style: italic;
+    margin-top: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 25px;
+    padding-left: 10px;
+    width: 80%;
+    font-size: 15pt;
+    color: #8E3200;
+
 }
 
-article {    
-    font-family: 'Rubik', sans-serif; 
+article {
+    font-family: 'Rubik', sans-serif;
     width: 80%;
     margin: 40px 0 5px;
 
@@ -39,73 +39,73 @@ article {
 
 
 
-p{
+p {
     margin-top: 20px;
 }
 
-main{
+main {
 
     width: 80%;
     margin: 40px auto 5px;
     padding-left: 10px;
 }
 
-.article-title{
+.article-title {
 
-    font-family: 'Rubik', sans-serif; 
-    /* SHORTHAND MARGENS*/    
-    margin: 40px auto 5px;    
-    font-size: 22pt;    
-    color: #8E3200;   
+    font-family: 'Rubik', sans-serif;
+    /* SHORTHAND MARGENS*/
+    margin: 40px auto 5px;
+    font-size: 22pt;
+    color: #8E3200;
 }
 
 
 .titulo-produto {
-    /* SHORTHAND MARGENS*/    
-    margin: 40px 0 5px; 
-    font-family: 'Rubik', sans-serif;   
+    /* SHORTHAND MARGENS*/
+    margin: 40px 0 5px;
+    font-family: 'Rubik', sans-serif;
     font-size: 22pt;
-    font-weight: 600;    
+    font-weight: 600;
     font-style: italic;
     color: #ffffff;
     background-color: #8E3200;
-    padding-top:16px;
+    padding-top: 16px;
     padding-bottom: 16px;
     text-align: center;
     border-radius: 10px;
     /* box-shadow: inset 2px 2px 3px 3px rgba(0,0,0,0.4); */
-    width: 100%;    
+    width: 100%;
 }
 
 
 
-.imagem-produto{
-    
-    width: 370px; 
+.imagem-produto {
+
+    width: 370px;
 
 
 }
 
-.rodape{
-    
+.rodape {
+
     background-color: #8E3200;
     color: #ffffff;
-    padding: 20px;  
-    font-family: 'Rubik', sans-serif; 
+    padding: 20px;
+    font-family: 'Rubik', sans-serif;
     font-size: 18px;
 }
 
-.box-menu{
+.box-menu {
 
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    padding: 10px;
-    font-size: 12pt;
+    padding: 20px;
+    font-size: 15pt;
     font-weight: bolder;
     font-style: unset;
     background-color: #c16b3d;
-    width: 80%;
     margin: auto;
+    width: 80%;
 }
