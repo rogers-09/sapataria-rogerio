@@ -1,10 +1,10 @@
 .page-title {
     /*SHORTAND MARGENS*/
-    margin: 40px auto 5ppx;
+     margin: auto;
      padding-left: 10px;
      width: 80%;
      font-size:30pt;
-     font-weight: bold;
+     font-weight: 600;
      color: #8e3200;
      
 
@@ -13,7 +13,7 @@
 
 h2 {
 
-    /*margin: 5px* auto 25px;*/
+    *margin: auto;
     margin-top: 5px;
     margin-right: auto;
     margin-left: auto;
@@ -56,7 +56,8 @@ main{
 
 .titulo-produto {
     /* SHORTHAND MARGENS*/    
-    margin: 40px 0 5px;    
+    width: 80%;
+    margin: auto;  
     font-size: 18pt;
     font-weight: bold;    
     color: #ffffff;
@@ -70,16 +71,16 @@ main{
 
 .imagem-produto{
     
-    width: 413px; 
+    width: 350px; 
 
 
 }
 
 .rodape{
-
+    
     margin: 40px 0 5px;
-    font-size: 16pt;
-    font-weight: bolder;
+    font-size: 12pt;
+    font-weight: normal;
     color:  #ffffff;
     background-color: #8E3200;
     padding: 20px;
@@ -87,3 +88,17 @@ main{
     text-align: left;
 }
 
+.box-menu{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    font-size: 12pt;
+    font-weight: bolder;
+    font-style: unset;
+    background-color: #c16b3d;
+    width: 80%;
+    margin: auto;
+}
